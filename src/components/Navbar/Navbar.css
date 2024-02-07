@@ -1,0 +1,60 @@
+.navbar {
+
+    border: 1px solid green;
+    left: 243px;
+    padding: 0px 0px 0px 50px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 82vw;
+    height: 91px;
+    position: fixed;
+    top: 0;
+    overflow-y: auto;
+    background-color: #ffffff;
+}
+
+.nav-search-bar {
+    border: 1px solid blue;
+    width: 343px;
+    height: 44px;
+    padding: 10px 16px;
+    border-radius: 4px;
+    border: 1px solid #E0E0E0;
+    display: flex;
+    justify-content: space-between;
+    background: linear-gradient(0deg, #FAFAFA, #FAFAFA), linear-gradient(0deg, #E0E0E0, #E0E0E0);
+}
+
+.navbar-menu {
+    border: 1px solid red;
+    display: flex;
+    margin-left: 65%;
+}
+
+
+
+.search-bar {
+    width: 57px;
+    height: 24px;
+    font-family: " Poppins";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    background: #B3B3B3;
+    border: none;
+    padding: 0;
+    margin: 0;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.navbar-right {
+    align-items: right;
+}
+
+#profilePic {
+    border-radius: 50%;
+}

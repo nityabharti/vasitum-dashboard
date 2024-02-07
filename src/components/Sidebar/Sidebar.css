@@ -1,0 +1,40 @@
+.sidebar {
+    border: 1px solid #fafafa;
+    width: 240px;
+    height: 898px;
+    padding: 20px, 0px, 272px, 0px;
+    gap: 39px;
+    background-color: #fafafa;
+
+}
+
+.logo-container {
+    /* border: 1px solid red; */
+    width: 169px;
+    height: 62px;
+    padding: 10px;
+    margin: 20px auto;
+
+
+}
+
+#sidebar-logo {
+    width: 142.99px;
+    height: 36.8px;
+}
+
+
+.sidebar-menu-items {
+    /* border: 1px solid blue; */
+    display: flex;
+    width: 242px;
+    height: 56px;
+    padding: 16px 0px 16px 30px;
+    gap: 24px;
+    color: #686868;
+    font-family: "Poppins";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+
+}
